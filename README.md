@@ -1,2 +1,2 @@
-# joseparus.com
-HTML code for my website
+# http://joseparus.com
+Source code of my website, http://joseparus.com. Nothing interesting, really...
