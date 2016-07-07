@@ -1,0 +1,18 @@
+# Site settings
+title: Josep Arús
+email: josep@joseparus.com
+description: Personal website of Josep Arús
+url: "http://joseparus.com"
+
+# Build settings
+markdown: kramdown
+
+timezone: 'Europe/Bern'
+
+# exclude some private directories and files
+exclude:
+  - "config"
+  - "Gemfile"
+  - "Capfile"
+  - LICENSE
+  - README.md

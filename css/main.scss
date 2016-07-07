@@ -1,0 +1,32 @@
+---
+---
+
+@charset "utf-8";
+
+$backgroundColor: #F9F9F9;
+
+
+body {
+  background: $backgroundColor;
+  font: {
+    family: "Inconsolata";
+  }
+}
+
+// INDEX
+
+$widthIndex: 250px;
+
+#index-container {
+  margin: 10px auto;
+  width: $widthIndex;
+
+  p {
+    text-align: center;
+    font-size: 20px;
+  }
+}
+
+#img-me {
+  width: $widthIndex;
+}
