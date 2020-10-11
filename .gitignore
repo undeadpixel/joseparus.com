@@ -6,3 +6,6 @@ _site/
 config
 log
 Capfile
+
+.ruby-version
+.jekyll-cache
