@@ -1,0 +1,15 @@
+# Dependency files
+node_modules/
+package.json
+package-lock.json
+
+# Documentation
+README.md
+
+# Git files
+.git/
+.gitignore
+
+# Development files
+.vscode/
+*.map

@@ -1,0 +1,13 @@
+body { background: #F9F9F9; font-family: "Inconsolata", monospace; }
+
+#index-container { margin: 10px auto; width: min(300px, 90vw); text-align: center;}
+
+#index-container p { text-align: center; font-size: 18px; }
+
+#index-container a { color: black; font-weight: bold; }
+
+#index-container a:hover { text-decoration: none; }
+
+#img-me { width: 250px; }
+
+/*# sourceMappingURL=main.css.map */
